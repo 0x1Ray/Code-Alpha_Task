@@ -1,6 +1,0 @@
-sudo python network_sniffer.py tcp   To Capture TCP Packets
-
-sudo python network_sniffer.py udp   To Capture UDP Packets
-
-sudo python network_sniffer.py all   To Capture All Network Packets
-
